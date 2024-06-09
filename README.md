@@ -1,1 +1,1 @@
-this is my first js ourney project
+this is my first js journey project
